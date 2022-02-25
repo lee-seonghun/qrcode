@@ -20,6 +20,11 @@ http://www.the-art-of-ecc.com/4_RS/index.html
 
 https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture7.pdf
 
+## BCH (15,5) 예제
+
+https://dev2u.net/2021/06/03/chapter-7-bch-codes-information-theory-coding-and-cryptography/
+
+
 # QR 코드 인식
 
 https://aishack.in/tutorials/scanning-qr-codes-1/
