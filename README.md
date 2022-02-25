@@ -24,6 +24,7 @@ https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture7.pdf
 
 https://dev2u.net/2021/06/03/chapter-7-bch-codes-information-theory-coding-and-cryptography/
 
+https://www.youtube.com/watch?v=jAEJFUYHp7o&list=PL9k2wIz8VsfO2zRXeiIiOVWS3hOwI4Z52&index=21
 
 # QR 코드 인식
 
