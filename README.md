@@ -10,6 +10,10 @@ https://kennysoft.kr/qr_ko/qr1_kr.htm
 
 https://www.thonky.com/qr-code-tutorial/introduction
 
+# 유한체
+
+http://www.koreascience.or.kr/article/JAKO199111920532364.pdf
+
 # 에러정정 
 
 https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders
